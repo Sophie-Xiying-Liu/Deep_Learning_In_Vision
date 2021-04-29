@@ -2,4 +2,4 @@
 Group project for deep learning in vision module
 HSLU FS21
 
-Data source: https://www.kaggle.com/jessicali9530/celeba-dataset
+Data source: https://www.tensorflow.org/datasets/catalog/celeb_a
